@@ -7,7 +7,7 @@ var cat = new Cat("Dung");
 var mouse = new Mouse("Thang");
 try {
     cat.eat(dog);
-} catch(Error) {
+} catch (Error) {
     console.log("Error when Cat eating a Dog");
 }
 
