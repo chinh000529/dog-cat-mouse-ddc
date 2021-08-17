@@ -7,4 +7,5 @@ dog.sayHi();
 var cat = new Cat();
 dog.eat(cat);
 console.log(dog);
+console.log("hello");
 
